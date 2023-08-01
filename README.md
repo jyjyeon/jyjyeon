@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 
 ## 💖 Welcome!
-I am a university student, and I am studying to become a web back-end developer.
+I am a university student.
 
 
 ## 🛠 Skills
