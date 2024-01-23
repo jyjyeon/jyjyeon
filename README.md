@@ -23,7 +23,7 @@ I am a university student.
 
 ## 🛠 Skills
 <div align=left>
-  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c++&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black">
   <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=flat-square&logo=Flutter&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/docker-2496ED?style=flat-square&logo=docker&logoColor=white">
