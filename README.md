@@ -37,9 +37,5 @@ I am a university student.
 </div>
 
 
-## 🌱 My Github Stats
-[![jyjyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyjyeon)](https://github.com/jyjyeon/github-readme-stats)
-
-
 ## 📫 Contact
 <a href="mailto:kjy821@ewhain.net"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kjy821@ewhain.net"/></a>
